@@ -1,0 +1,27 @@
+.post-view-count{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    text-align: center;
+    margin: auto;
+    padding: 10px;;
+}
+
+.post-view-count h2 {
+    font-size: 24px;
+    color: #333;
+    /* Add more styles as needed */
+}
+
+.post-view-count h3 {
+    font-size: 22px;
+    color: #666;
+    /* Add more styles as needed */
+}
+
+.post-view-count h3 strong {
+    color: #000;
+    font-weight: bold;
+    font-size: 30px;
+    /* Add more styles as needed */
+}
